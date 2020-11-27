@@ -5,7 +5,6 @@
 - #### I believe that hard work will do anything.
 
 
-
 #### I have experience with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=black&color=99c2ff)
@@ -21,6 +20,12 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Filip-Zivanovic&show_icons=true)
 
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infofilip.zivanovic1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infofilipzivanovic/)
+
+
+
+
+
 
