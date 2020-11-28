@@ -1,4 +1,4 @@
-# Hi there, <img src="https://img.shields.io/badge/I'm%20Filip-Zivanovic-yellowgreen" alt="mojeime" width="200px" height="50px">
+ <img src="https://img.shields.io/badge/Hi%20there%20I'm-Filip%20Zivanovic-yellowgreen" alt="mojeime" width="280px" height="60px">
 
 - #### Information Technology Student at RAF at final year
 - #### Currently searching for a company, where I can start as a Junior or Intern, and give my best to prove myself within the company by becoming an experienced developer everyone can count on.
