@@ -1,4 +1,4 @@
-# Hi there, I'm Filip Zivanovic
+# Hi there, I'm <img src="https://img.shields.io/badge/Filip%20-Zivanovic-yellowgreen" alt="mojeime" width="200px" height="50px">
 
 - #### Information Technology Student at RAF at final year
 - #### Currently searching for a company, where I can start as a Junior or Intern, and give my best to prove myself within the company by becoming an experienced developer everyone can count on.
