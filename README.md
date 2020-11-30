@@ -18,7 +18,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=for-the-badge&logo=Laravel&logoColor=black&color=99c2ff)
 ![WordPress](https://img.shields.io/badge/-WordPress-222222?style=for-the-badge&logo=WordPress&logoColor=black&color=99c2ff)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Filip-Zivanovic&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true)
 
 
 # You can reach me with the links below
