@@ -1,4 +1,4 @@
- <img src="https://img.shields.io/badge/Hi%20there%20I'm-Filip%20Zivanovic-yellowgreen" alt="mojeime" width="320px" height="80px">
+ <img src="https://img.shields.io/badge/Hi%20there%20I'm-Filip%20Zivanovic-yellowgreen" alt="mojeime" width="340px" height="80px">
 
 - #### Information Technology Student at RAF at final year
 - #### Currently searching for a company, where I can start as a Junior or Intern, and give my best to prove myself within the company by becoming an experienced developer everyone can count on.
@@ -24,7 +24,6 @@
 # You can reach me with the links below
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infofilip.zivanovic1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infofilipzivanovic/)
-
 
 
 
