@@ -17,7 +17,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-222222?style=for-the-badge&logo=MySql&logoColor=black&color=99c2ff)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=for-the-badge&logo=Laravel&logoColor=black&color=99c2ff)
 ![WordPress](https://img.shields.io/badge/-WordPress-222222?style=for-the-badge&logo=WordPress&logoColor=black&color=99c2ff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=WordPress&logoColor=black&color=99c2ff)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=Linux&logoColor=black&color=99c2ff)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true)
 
