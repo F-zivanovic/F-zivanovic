@@ -1,7 +1,7 @@
  <img src="https://img.shields.io/badge/%20I'm-Filip%20Zivanovic-yellowgreen" alt="mojeime" width="400px" height="80px">
 
 - #### Information Technology Student at RAF at final year
-- #### Currently searching for a company, where I can start as a Junior or Intern, and give my best to prove myself within the company by becoming an experienced developer everyone can count on.
+
 - ## My website https://fzivanovic.000webhostapp.com/
 
 
