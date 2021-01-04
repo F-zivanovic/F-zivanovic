@@ -1,10 +1,10 @@
-Hi, I'm Filip:
+## Hi, I'm Filip:
 
 - #### Information Technology Student at RAF at final year
 
 - #### My website https://fzivanovic.000webhostapp.com/
 
-#### I have experience with
+## I have experience with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=black&color=99c2ff)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=black&color=99c2ff)
@@ -21,7 +21,7 @@ Hi, I'm Filip:
 ![github stats](https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true)
 
 
-# You can reach me with the links below
+## You can reach me with the links below
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infofilip.zivanovic1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-zivanovic-a953521aa/)
 
