@@ -1,9 +1,8 @@
- <img src="https://img.shields.io/badge/%20I'm-Filip%20Zivanovic-yellowgreen" alt="mojeime" width="400px" height="80px">
+Hi, I'm Filip:
 
 - #### Information Technology Student at RAF at final year
 
-- ## My website https://fzivanovic.000webhostapp.com/
-
+- #### My website https://fzivanovic.000webhostapp.com/
 
 #### I have experience with
 
