@@ -2,7 +2,7 @@
 
 - #### Information Technology Student at RAF at final year
 
-- #### My website https://fzivanovic.000webhostapp.com/
+- #### My website https://f-zivanovic.github.io/
 
 ## I have experience with
 
