@@ -2,7 +2,7 @@
 
 - #### Information Technology Student at RAF at final year
 
-- #### My website - <a href = "https://f-zivanovic.github.io/">Live Preview</a> 
+- #### My website - <a href = "">Live Preview</a> 
 
 ## I have experience with
 
