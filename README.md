@@ -1,6 +1,6 @@
 ## 🚀 About Me 
 
-- #### Information Technology Student at RAF at final year
+- #### Information technology graduate at Racunarski Fakultet - Belgrade
 
 - #### My website - <a href = "">Live Preview</a> 
 
