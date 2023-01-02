@@ -44,11 +44,11 @@
 
 <p>
   <a href="">
-    <img width="41%" align="right" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff" />
+    <img width="45%" align="right" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff" />
   </a>
 
   <a href="">
-    <img width="55%" align="left" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
+    <img width="45%" align="left" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
   </a>
   
 </p>
