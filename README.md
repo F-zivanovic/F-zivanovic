@@ -11,8 +11,8 @@
   [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://f-zivanovic.github.io/Portfolio/)
   [![Facebook](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/filip.zivanovic.50)
   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fica___19/)
-  
 </div>
+
 
 <div align="center">
  <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
@@ -23,8 +23,6 @@
 </div>
 
 <h2 align="center">I have experience with:</h2>
-
-<span align="left" width="50%">
 
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,8 +39,6 @@
  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-</span>
-
 
 <p>
   <a href="">
