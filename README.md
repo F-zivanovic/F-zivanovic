@@ -15,12 +15,14 @@
 </div>
 
 <div align="center">
- <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="CoDiNg RocKs" height="300px"/><br> 
-  Welcome to my profile. I'm a graduate in Computer Science 🎓 from Belgrade University 🏛. <br> 
-  <b>I don't focus on goals, I focus on the systems that lead to these goals</b>
+ <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
+  <p>Welcome to my profile.</p>
+  <h4> I'm a graduate in Computer Science 🎓 from Belgrade University 🏛. <br>
+    I don't focus on goals, I focus on the systems that lead to these goals
+  </h4>
 </div>
 
-<h2 align="">I have experience with:</h2>
+<h2 align="center">I have experience with:</h2>
 
 <span align="left" width="50%">
 
