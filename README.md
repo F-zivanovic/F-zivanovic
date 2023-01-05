@@ -13,7 +13,7 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fica___19/)
 </div>
 
-<img align="right" src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="350px"/>
+<img align="right" src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>From Serbia</li>
@@ -25,11 +25,11 @@
   <li> I’m currently learning <b>Webflow</b></li>
 </ul>
 
+<br><br>
 
->
-
-<h2 align="center">I have experience with:</h2>
-
+<div align="center">
+ <h2>⚡️ I have experience with</h2>
+  
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -45,22 +45,21 @@
  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</div>
 
 <p>
   <a href="">
-    <img width="45%" align="right" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff" />
+    <img width="45%" align="right" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
   </a>
 
   <a href="">
     <img width="45%" align="left" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
   </a>
-  
 </p>
 
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
 
-  <a href="">
-    <img  alt="Filip github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
-  </a>
 
 
 
