@@ -13,14 +13,20 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fica___19/)
 </div>
 
+<img align="right" src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="350px"/>
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+  <li>From Serbia</li>
+  <li>Co-founder of  <a href="https://webfax.rs/">WebFax</a>.</li>
+  <li>I'm a graduate in Computer Science</li>
+  <li> I don't focus on goals, I focus on the <b>systems</b> that lead to these goals</li>
+  <li>Ask me about anything tech related, I am happy to help;</li>
+  <li>Most of my projects are available on GttHub</li>
+  <li> I’m currently learning <b>Webflow</b></li>
+</ul>
 
-<div align="center">
- <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
-  <p>Welcome to my profile.</p>
-  <h4> I'm a graduate in Computer Science 🎓 from Belgrade University 🏛. <br>
-    I don't focus on goals, I focus on the systems that lead to these goals
-  </h4>
-</div>
+
+>
 
 <h2 align="center">I have experience with:</h2>
 
