@@ -18,7 +18,7 @@
 <ul>
   <li>From Serbia</li>
   <li>Co-founder of  <a href="https://webfax.rs/">WebFax</a>.</li>
-  <li>I'm a graduate in Computer Science</li>
+  <li>I'm a graduate in <b>Computer Science</b></li>
   <li> I don't focus on goals, I focus on the <b>systems</b> that lead to these goals</li>
   <li>Ask me about anything tech related, I am happy to help;</li>
   <li>Most of my projects are available on GttHub</li>
@@ -27,7 +27,7 @@
 
 <br><br>
 
-<div align="center">
+<div>
  <h2>⚡️ I have experience with</h2>
   
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue&hide_border=true" />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
 
 
