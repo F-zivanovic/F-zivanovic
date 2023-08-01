@@ -49,15 +49,15 @@
 
 <p>
   <a href="">
-    <img alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
-  </a>
-
-  <a href="">
-    <img alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
+    <img width="50%" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
   </a>
 </p>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
+ <a href="">
+    <img width="50%" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
+  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
 
 
