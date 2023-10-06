@@ -13,7 +13,9 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fica___19/)
 </div>
 
-<img align="right" src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
+<div align="center">
+  <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" width="80%" height="500px"/>
+</div>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>From Serbia</li>
