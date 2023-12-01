@@ -62,10 +62,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
 
+![image](https://github.com/F-zivanovic/F-zivanovic/assets/66179908/6a37258a-aa48-40af-a9a0-ad398d4ef14b)
+
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=F-zivanovic&data=followers,repositories,stars,commits)](https://github.com/F-zivanovic/github-widgetbox)
 
 
 
