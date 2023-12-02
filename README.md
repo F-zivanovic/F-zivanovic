@@ -14,7 +14,7 @@
 </div>
 
 
-  <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" width="45%" height="300px" align='right'/>
+
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -26,6 +26,8 @@
   <li>Most of my projects are available on GttHub</li>
   <li> I’m currently learning <b>Webflow</b></li>
 </ul>
+
+  <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px" />
 
 <br><br>
 
