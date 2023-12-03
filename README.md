@@ -23,8 +23,6 @@
   <li>I'm a graduate in <b>Computer Science</b></li>
   <li> I don't focus on goals, I focus on the <b>systems</b> that lead to these goals</li>
   <li>Ask me about anything tech related, I am happy to help;</li>
-  <li>Most of my projects are available on GttHub</li>
-  <li> I’m currently learning <b>Webflow</b></li>
 </ul>
 
   <img src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px" />
@@ -42,7 +40,7 @@
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
- ![Laravel](	https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
  ![WordPress](https://img.shields.io/badge/-WordPress-1DA1F2?style=flat-square&logo=WordPress&logoColor=white&color=1DA1F2)
  ![Git](https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white)
  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
