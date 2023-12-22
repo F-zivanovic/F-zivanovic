@@ -1,6 +1,6 @@
 <h1 align="center"> 
   I am Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
-  Full-stack developer and IT educator 
+  Web developer and IT educator 
 </h1> 
 
 <div align="center">
