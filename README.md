@@ -69,7 +69,6 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=F-zivanovic&data=followers,repositories,stars,commits)](https://github.com/F-zivanovic/github-widgetbox)
 
 
 
