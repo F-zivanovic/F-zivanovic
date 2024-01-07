@@ -1,4 +1,4 @@
-<img src="./img/cover1.png"> 
+<img src="./img/cover2.png"> 
 
 <div>
   <br>
