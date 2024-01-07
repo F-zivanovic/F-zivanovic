@@ -49,79 +49,33 @@
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </div>
 
+
+
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F-zivanovic&theme=github_dark"></a>
+
 <p>
-  <a href="">
-    <img width="50%" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
-  </a>
+  <img width="45%"  alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&hide_border=true" />
+  <img width="45%"  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
+
 </p>
 
- <a href="">
-    <img width="50%" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
-  </a>
+<img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F-zivanovic&theme=github_dark&utcOffset=+1"></img>
+<img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-zivanovic&theme=github_dark"></img>
+<img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F-zivanovic&theme=github_dark"></img>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=vue" />
+
+
+
+
+
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
-
-![image](https://github.com/F-zivanovic/F-zivanovic/assets/66179908/6a37258a-aa48-40af-a9a0-ad398d4ef14b)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-<h2 align="left" id="macropower-tech">I have experience with:</h2>
-
-> Tools, languages, and other things that I like to work with.
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
 
 
 
