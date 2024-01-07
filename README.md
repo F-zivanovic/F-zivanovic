@@ -51,13 +51,7 @@
 
 
 
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F-zivanovic&theme=github_dark"></a>
 
-<p>
-  <img width="45%"  alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-zivanovic&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&hide_border=true" />
-  <img width="45%"  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=F-zivanovic&show_icons=true&hide_border=true" />
-
-</p>
 
 <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F-zivanovic&theme=github_dark&utcOffset=+1"></img>
 <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-zivanovic&theme=github_dark"></img>
@@ -66,12 +60,6 @@
 
 
 
-
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F-zivanovic">
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
