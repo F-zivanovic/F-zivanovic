@@ -1,9 +1,9 @@
-<h1 align="center"> 
+<h1> 
   I am Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
   Web developer and IT educator 
 </h1> 
 
-<div align="center">
+<div>
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-zivanovic/)
@@ -57,7 +57,7 @@
 <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=F-zivanovic&theme=github_dark"></img>
 <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F-zivanovic&theme=github_dark"></img>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F-zivanovic&theme=github_dark" />
-<img width="100%" height="500px" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 
 
