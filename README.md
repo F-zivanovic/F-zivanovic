@@ -1,7 +1,4 @@
-<h1> 
-  I am Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
-  Web developer and IT educator 
-</h1> 
+<img src="./img/cover1.png"> 
 
 <div>
   <br>
