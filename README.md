@@ -53,53 +53,45 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+        <img src="./img/html-5.png" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+        <img src="./img/css-3.png" width="48" height="48" alt="CSS" />
+      <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+        <img src="./img/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+        <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+      <td align="center" width="96">
+        <img src="./img/code.png" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+      <td align="center" width="96">
+        <img src="./img/git.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+      <td align="center" width="96">
+        <img src="./img/sass.png" width="48" height="48" alt="SCSS" />
+      <br>SCSS
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <td align="center" width="96">
+        <img src="./img/terminal.png" width="48" height="48" alt="Terminal" />
+      <br>Terminal
     </td>
+      <td align="center" width="96">
+        <img src="./img/wordpress.png" width="48" height="48" alt="Wordpress" />
+      <br>Wordpress
+    </td>
+
+  
+
+ 
   </tr>
 </table>
 
