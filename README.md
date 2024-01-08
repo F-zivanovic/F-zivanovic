@@ -1,11 +1,9 @@
 <img src="./img/cover2.png"> 
 
-<div>
-  <br>
+<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-zivanovic/)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:infofilip.zivanovic1999@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://f-zivanovic.github.io/Portfolio/)
   [![Facebook](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/filip.zivanovic.50)
 </div>
 
@@ -51,6 +49,8 @@
         <img src="./img/git.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
       <td align="center" width="96">
         <img src="./img/sass.png" width="48" height="48" alt="SCSS" />
       <br>SCSS
@@ -75,10 +75,6 @@
         <img src="./img/slack.png" width="48" height="48" alt="Slack" />
       <br>Slack
     </td>
-
-  
-
- 
   </tr>
 </table>
 
