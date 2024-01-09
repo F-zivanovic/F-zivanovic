@@ -80,7 +80,7 @@
 
 > My newest projects.
 
-<p align="center">
+<p>
 <a href="https://github.com/F-zivanovic/Bank-Application">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=F-zivanovic&repo=Bank-Application&border_color=ffd700&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ffd700" />
 </a>
